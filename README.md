@@ -48,12 +48,12 @@ To run the Django Python project:
 1. **Clone the Repository:** First, clone the repository containing your Django project onto your local machine.
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   git clone https://github.com/JUNE8UG/Johnnys-Store.git
    ```
 Navigate to the Project Directory: Move into the directory where your Django project is located.
 
   ```bash
-  cd your-project
+  cd Johnnys-Store
   ```
 Install Requirements: Install the required dependencies specified in the requirements.txt file. It's recommended to set up a virtual environment for your project to manage dependencies.
 
