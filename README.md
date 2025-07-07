@@ -48,7 +48,7 @@ To run the Django Python project:
 1. **Clone the Repository:** First, clone the repository containing your Django project onto your local machine.
 
    ```bash
-   git clone https://github.com/JUNE8UG/Johnnys-Store.git
+   git clone https://github.com/Code4Christ/Johnnys-Store.git
    ```
 Navigate to the Project Directory: Move into the directory where your Django project is located.
 
